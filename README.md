@@ -9,4 +9,6 @@ Describe tutorials to help on analog electronics circuits
 
 # Eagle Tutorials/Reference
 
+[Mixed Signals PCB](http://www.hottconsultants.com/pdf_files/june2001pcd_mixedsignal.pdf)
+
 soon..
